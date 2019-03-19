@@ -1,2 +1,3 @@
 # Paper
-Spectral numerical method to solve Kolmogorov equations
+
+## Numerical approximation of Kolmogorov equations.
