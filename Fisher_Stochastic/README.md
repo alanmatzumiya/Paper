@@ -7,7 +7,7 @@ Numerical solution of stochastic Fishers-KPP equation on 1D using Spectral metho
 
 Initial Condition (1).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;=&space;\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;=&space;\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) = \frac{1}{\cosh{(5 (x - 0.5))}^2}, \hspace{2mm} x \in [0, 1]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x(\xi)&space;=&space;\frac{1}{\cosh{(5&space;(\xi&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x(\xi)&space;=&space;\frac{1}{\cosh{(5&space;(\xi&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" title="x(\xi) = \frac{1}{\cosh{(5 (\xi - 0.5))}^2}, \hspace{2mm} \xi \in [0, 1]" /></a>
 
 Initial Condition (2).
 
