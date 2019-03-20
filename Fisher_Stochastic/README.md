@@ -1,6 +1,6 @@
-Numerical approximation of the Burgers Stochastic equation.
+Numerical approximation of the Fishers-KPP Stochastic equation.
 ====================================================
-Solves the Burgers Stochastic equation on 1D using Spectral method based on the spectral decomposition of the Ornstein-Uhlenbeck semigroup associated to the Kolmogorov equation and compute the norm between two solutions with different initial conditions for a fixed point in real space.
+Solves the Fishers-KPP Stochastic equation on 1D using Spectral method based on the spectral decomposition of the Ornstein-Uhlenbeck semigroup associated to the Kolmogorov equation and compute the norm between two solutions with different initial conditions for a fixed point in real space.
 ----------------------------------------------------------------------------------------------------------
 
 ### Simulation Considerations.
