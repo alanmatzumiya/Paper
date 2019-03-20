@@ -17,8 +17,8 @@ Approximation with Chebyshev Polynomials
 
 ### Parameters of the simulation for (1) and (2).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;0.01,&space;\hspace{2mm}&space;\math{N}&space;=&space;5,&space;\hspace{2mm},&space;\math{M}&space;=&space;11,&space;\hspace{2mm}&space;\math{t}&space;\in&space;[0,&space;10]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;0.01,&space;\hspace{2mm}&space;\math{N}&space;=&space;5,&space;\hspace{2mm},&space;\math{M}&space;=&space;11,&space;\hspace{2mm}&space;\math{t}&space;\in&space;[0,&space;10]" title="\nu = 0.01, \hspace{2mm} \math{N} = 5, \hspace{2mm}, \math{M} = 11, \hspace{2mm} \math{t} \in [0, 10]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;0.1,&space;\hspace{2mm}&space;\math{N}&space;=&space;7,&space;\hspace{2mm}&space;\math{M}&space;=&space;20,&space;\hspace{2mm}&space;t&space;\in&space;[0,&space;10]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;0.1,&space;\hspace{2mm}&space;\math{N}&space;=&space;7,&space;\hspace{2mm}&space;\math{M}&space;=&space;20,&space;\hspace{2mm}&space;t&space;\in&space;[0,&space;10]" title="\nu = 0.1, \hspace{2mm} \math{N} = 7, \hspace{2mm} \math{M} = 20, \hspace{2mm} t \in [0, 10]" /></a>
 
-with a discretization of 2048 points in space and 1026 points in time.
+with a discretization of 512 points in space and 256 points in time.
 
 The folder called 'Generated_Data' contains the data produced in the simulation given by the code 'main.py'. For more information about the data read 'README.md' that is contained in this folder.
