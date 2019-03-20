@@ -11,7 +11,7 @@ Initial Condition (1).
 
 Initial Condition (2).
 
-### Approximation with Chebyshev Polynomials
+Approximation with Chebyshev Polynomials
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;\approx&space;\sum^{3}_{n=0}&space;a_n&space;T_n&space;(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;\approx&space;\sum^{3}_{n=0}&space;a_n&space;T_n&space;(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) \approx \sum^{3}_{n=0} a_n T_n (x), \hspace{2mm} x \in [0, 1]" /></a>
 
