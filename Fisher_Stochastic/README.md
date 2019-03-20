@@ -13,7 +13,7 @@ Initial Condition (2).
 
 Approximation with Chebyshev Polynomials
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;\approx&space;\sum^{7}_{n=0}&space;a_n&space;T_n(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;\approx&space;\sum^{7}_{n=0}&space;a_n&space;T_n(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) \approx \sum^{7}_{n=0} a_n T_n(x), \hspace{2mm} x \in [0, 1]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x(\xi)&space;\approx&space;y(\xi)&space;=&space;\sum^{7}_{n=0}&space;a_n&space;T_n(\xi),&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x(\xi)&space;\approx&space;y(\xi)&space;=&space;\sum^{7}_{n=0}&space;a_n&space;T_n(\xi),&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" title="x(\xi) \approx y(\xi) = \sum^{7}_{n=0} a_n T_n(\xi), \hspace{2mm} \xi \in [0, 1]" /></a>
 
 ### Parameters of the simulation for (1) and (2).
 
