@@ -7,7 +7,7 @@ Numerical solution of stochastic Burger's equation on 1D using Spectral method b
 
 Initial Condition (1).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;=&space;\sin(\pi&space;x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;=&space;\sin(\pi&space;x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) = \sin(\pi x), \hspace{2mm} x \in [0, 1]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x(\xi)&space;=&space;\sin(\pi&space;\xi),&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x(\xi)&space;=&space;\sin(\pi&space;\xi),&space;\hspace{2mm}&space;\xi&space;\in&space;[0,&space;1]" title="x(\xi) = \sin(\pi \xi), \hspace{2mm} \xi \in [0, 1]" /></a>
 
 Initial Condition (2).
 
