@@ -7,13 +7,13 @@ Solves the Burgers Stochastic equation on 1D using Spectral method based on the 
 
 Initial Condition (1).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2}" title="\frac{1}{\cosh{(5 (x - 0.5))}^2}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;=&space;\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;=&space;\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2},&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) = \frac{1}{\cosh{(5 (x - 0.5))}^2}, \hspace{2mm} x \in [0, 1]" /></a>
 
 Initial Condition (2).
 
 Approximation with Chebyshev Polynomials
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;\approx&space;\sum^{3}_{n=0}&space;a_n&space;T_n&space;(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;\approx&space;\sum^{3}_{n=0}&space;a_n&space;T_n&space;(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) \approx \sum^{3}_{n=0} a_n T_n (x), \hspace{2mm} x \in [0, 1]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;\approx&space;\sum^{7}_{n=0}&space;a_n&space;T_n(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;\approx&space;\sum^{7}_{n=0}&space;a_n&space;T_n(x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) \approx \sum^{7}_{n=0} a_n T_n(x), \hspace{2mm} x \in [0, 1]" /></a>
 
 ### Parameters of the simulation for (1) and (2).
 
