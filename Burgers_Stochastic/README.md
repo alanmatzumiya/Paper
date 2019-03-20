@@ -1,6 +1,6 @@
 Numerical approximation of the Burgers Stochastic equation.
 ====================================================
-Solves the Burgers Stochastic equation on 1D using Spectral method based on the spectral decomposition of the Ornstein-Uhlenbeck semigroup associated to the Kolmogorov equation and compute the norm between two solutions with different initial conditions for a fixed point in real space.
+Numerical solution of stochastic Burger's equation on 1D using Spectral method based on the spectral decomposition of the Ornstein-Uhlenbeck semigroup associated to the Kolmogorov equation and compute the norm between two solutions with different initial conditions for a fixed point in real space.
 ----------------------------------------------------------------------------------------------------------
 
 ### Simulation Considerations.
