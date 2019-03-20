@@ -7,7 +7,7 @@ Solves the Burgers Stochastic equation on 1D using Spectral method based on the 
 
 Initial Condition (1).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=u(x)&space;=&space;\sin(\pi&space;x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u(x)&space;=&space;\sin(\pi&space;x),&space;\hspace{2mm}&space;x&space;\in&space;[0,&space;1]" title="u(x) = \sin(\pi x), \hspace{2mm} x \in [0, 1]" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1}{\cosh{(5&space;(x&space;-&space;0.5))}^2}" title="\frac{1}{\cosh{(5 (x - 0.5))}^2}" /></a>
 
 Initial Condition (2).
 
