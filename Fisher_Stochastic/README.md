@@ -23,4 +23,4 @@ with a discretization of 512 points in space and 256 points in time.
 
 The folder called 'Generated_Data' contains the data produced in the simulation given by the code 'main.py'. For more information about the data read 'README.md' that is contained in this folder.
 
-The folder called 'Figures' contains the figures produced by the Python code 'make_graph.py'.
+The folder called 'Figures' contains the figures produced by the Python codes 'make_graphs.py' and 'Graphics.py'
