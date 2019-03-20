@@ -22,3 +22,8 @@ Approximation with Chebyshev Polynomials
 with a discretization of 2048 points in space and 1026 points in time.
 
 The folder called 'Generated_Data' contains the data produced in the simulation given by the code 'main.py'. For more information about the data read 'README.md' that is contained in this folder.
+
+The folder called 'Graphics' contains the figures produced by the Python codes 'make_graphs.py' and 'Graphics.py'
+
+The Python code 'main.py' returns the discretization of space and time; also returns the numerical approximations for the initial conditions (1) and (2), and the distances between them using the norm established in the paper.
+
