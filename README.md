@@ -68,3 +68,5 @@ which can be solved for different values of `Diffusion coefficient` in the examp
 More information
 ----------------
 * The [paper published in the Journal](http://dx.doi.org/10.13140/RG.2.2.21593.47203)
+
+<embed type="application/pdf" href="https://github.com/alanmatzumiya/pySpectralPDE/blob/master/docs/presentation/presentation.pdf" width="100%" height="550px">
